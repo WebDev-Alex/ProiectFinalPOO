@@ -57,7 +57,7 @@ public class Persoana implements IPersoana{
 
     //Scriem mesajul de ajutor intr-un label.
     public void scrieMesaj(){
-        //Aici o sa alegem o rana la intamplare, in functie de variabila problema;
+        //Aici o sa alegem o rana la intamplare, in functie de variabila problema si adaugam optiuni la butoane.;
         adaugaOptiuniAjutor();
     }
 
