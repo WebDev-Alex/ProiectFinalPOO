@@ -21,7 +21,7 @@ public class Persoana implements IPersoana{
         this.setVarsta(varstaP);
     }
 
-    //Getters pentru variabilele private.
+    //Getters pentru variabilele private
     public String getNume(){
         return this.nume;
     }
