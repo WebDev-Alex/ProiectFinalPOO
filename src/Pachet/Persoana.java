@@ -1,6 +1,9 @@
 package Pachet;
 
+import javax.swing.*;
+
 public class Persoana implements IPersoana{
+    public static String user_name;
     private String nume;
     private String prenume;
     private String numarMatricol;
@@ -8,8 +11,8 @@ public class Persoana implements IPersoana{
     int problema = IPersoana.R.nextInt(30); //in loc de 30 punem numarul de intrebari, cand ajungem acolo.
 
     public Persoana(){
-        this.setNume("Necunoscut");
-        this.setPrenume(" ");
+        this.setNume("Persoana");
+        this.setPrenume("Necunoscuta");
         this.setNumarMatricol("000000");
         this.setVarsta(21);
     }
@@ -53,6 +56,10 @@ public class Persoana implements IPersoana{
 
     public void setVarsta(int v){
         this.varsta = v;
+    }
+
+    public void setUser(String name){
+        user_name = name;
     }
 
     //Scriem mesajul de ajutor intr-un label.
