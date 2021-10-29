@@ -7,7 +7,7 @@ public interface IPersoana {
     String[][] rani_posibile =
             {
                     {
-                        "Intrebare exemplu",
+                        "Intrebare exemplusaaaaaaaaaaaaaaaaa",
                         "Raspuns corect",
                         "Raspuns gresit",
                         "Raspuns gresit"
