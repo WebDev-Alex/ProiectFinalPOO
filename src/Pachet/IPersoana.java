@@ -3,21 +3,21 @@ import java.util.Random;
 
 public interface IPersoana {
     Random R = new Random();
-    //aici scriem intrebarile si raspunsurile. Raspunsurile o sa le amestecam cand le adaugam la butoane, cumva.
-    String[][] rani_posibile =
+    //aici scriem intrebarile si raspunsurile.
+    String[][][] rani_posibile =
             {
                     {
-                        "Intrebare exemplusaaaaaaaaaaaaaaaaa",
-                        "Raspuns corectaaaaaaaaaaaaaaaa",
-                        "Raspuns gresit11111111111111",
-                        "Raspuns gresit"
+                            {"Intrebare exemplu", "0"},
+                            {"Raspuns corect", "1"},
+                            {"Raspuns gresit", "0"},
+                            {"Raspuns gresit", "0"}
 
                     },
                     {
-                        "Intrebare exemplu 2",
-                        "Raspuns corect",
-                        "Raspuns gresit",
-                        "Raspuns gresit"
+                            {"Intrebare exemplu 2", "0"},
+                            {"Raspuns gresit", "0"},
+                            {"Raspuns corect", "1"},
+                            {"Raspuns gresit", "0"}
 
                     }
             };
