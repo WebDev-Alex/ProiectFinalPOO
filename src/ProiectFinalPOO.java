@@ -5,14 +5,15 @@ import java.awt.*;
 
 
 public class ProiectFinalPOO {
-    private JButton raspuns3;
-    private JButton raspuns2;
     private JList list1;
     private JLabel problema;
     protected JPanel rootPanel;
     private JButton ajuta;
     private JButton verifica;
-    private JRadioButton raspuns1RadioButton;
+    private JButton btnAdauga;
+    private JRadioButton btnvar1;
+    private JRadioButton btnvar2;
+    private JRadioButton btnvar3;
 
     private final ListaPersoane lista = ListaPersoane.getInstance(list1);
 
