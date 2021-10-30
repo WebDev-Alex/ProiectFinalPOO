@@ -29,7 +29,12 @@ public class ProiectFinalPOO {
                     FileWriter fp;
                     try{
                         fp = new FileWriter(fila,true);
-                        fp.append("\n12345\n");
+                        fp.append("---------------------------------");
+                        fp.append("\nNume: "+lista.getListaPersoane().get(p).getNume());
+                        fp.append("\nPrenume: "+lista.getListaPersoane().get(p).getPrenume());
+                        fp.append("\nNumar Matricol: "+lista.getListaPersoane().get(p).getNumarMatricol());
+                        fp.append("\nVarsta: "+lista.getListaPersoane().get(p).getVarsta());
+                        fp.append("\n---------------------------------\n");
                         fp.close();
                     }
                     catch

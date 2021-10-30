@@ -148,6 +148,48 @@ public interface IPersoana {
                     }
             };
 
+    String[] prenume_default = {
+            "Andrei",
+            "Gabriel",
+            "Ionut",
+            "Stefan",
+            "Alexandru",
+            "Maria",
+            "Alexandra",
+            "Elena",
+            "Ioana",
+            "Iulia",
+            "Gabriela",
+            "Ana-Maria",
+            "Marian",
+            "Paul",
+            "Constantin",
+            "Daniel",
+            "Dani",
+            "Mihaela",
+            "Pavel",
+            "Raul",
+            "Codruta",
+            "Cosmin"
+    };
+    String[] nume_default = {
+            "Popa",
+            "Popescu",
+            "Radu",
+            "Ionescu",
+            "Dumitru",
+            "Stoica",
+            "Stan",
+            "Gheorghe",
+            "Rusu",
+            "Munteanu",
+            "Matei",
+            "Constantin",
+            "Serban",
+            "Ursu",
+            "Hulpe"
+    };
+
     String getNume();
     String getPrenume();
     String getNumarMatricol();

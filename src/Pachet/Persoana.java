@@ -17,6 +17,13 @@ public class Persoana implements IPersoana{
         this.setVarsta(21);
     }
 
+    public Persoana(String n, String p){
+        this.setNume(n);
+        this.setPrenume(p);
+        this.setNumarMatricol("000000");
+        this.setVarsta(21);
+    }
+
     public Persoana(String numeP, String prenumeP, String nrMatricolP, int varstaP){
         this.setNume(numeP);
         this.setPrenume(prenumeP);
