@@ -2,7 +2,10 @@ import Pachet.*;
 
 import javax.swing.*;
 import java.awt.*;
-
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.io.File;
+import java.io.FileWriter;
 
 public class ProiectFinalPOO {
     private JList list1;
@@ -14,8 +17,28 @@ public class ProiectFinalPOO {
     private JRadioButton btnvar1;
     private JRadioButton btnvar2;
     private JRadioButton btnvar3;
-
     private final ListaPersoane lista = ListaPersoane.getInstance(list1);
+    private final File fila = new File("out.txt");
+
+    public ProiectFinalPOO() {
+        ajuta.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                int p = list1.getSelectedIndex();
+                if (p!=-1){
+                    FileWriter fp;
+                    try{
+                        fp = new FileWriter(fila,true);
+                        fp.append("\n12345\n");
+                        fp.close();
+                    }
+                    catch
+                    (Exception t){System.out.println("Eroare");}
+
+                }
+            }
+        });
+    }
 
     public static void main(String[] args) {
         //Desenam tot.
