@@ -23,7 +23,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Date Persoana:"/>
+          <text value="   Date Persoana:"/>
         </properties>
       </component>
       <vspacer id="f91b2">
@@ -40,7 +40,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Nume:"/>
+          <text value="   Nume:"/>
         </properties>
       </component>
       <component id="7efb7" class="javax.swing.JLabel">
@@ -50,7 +50,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Numar Matricol:"/>
+          <text value="   Numar Matricol:"/>
         </properties>
       </component>
       <component id="f56b9" class="javax.swing.JLabel">
@@ -60,7 +60,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Varsta"/>
+          <text value="   Varsta"/>
         </properties>
       </component>
       <component id="7f0fd" class="javax.swing.JLabel" binding="problema">
