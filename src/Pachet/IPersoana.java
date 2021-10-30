@@ -1,4 +1,5 @@
 package Pachet;
+import javax.swing.*;
 import java.util.Random;
 
 public interface IPersoana {
@@ -195,6 +196,6 @@ public interface IPersoana {
     String getNumarMatricol();
     int getVarsta();
     String toString();
-    void scrieMesaj();
+    void scrieMesaj(JLabel mesaj);
     void adaugaOptiuniAjutor();
 }

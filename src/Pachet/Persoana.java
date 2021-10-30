@@ -8,7 +8,7 @@ public class Persoana implements IPersoana{
     private String prenume;
     private String numarMatricol;
     private int varsta;
-    int problema = IPersoana.R.nextInt(30); //in loc de 30 punem numarul de intrebari, cand ajungem acolo.
+    int problema = IPersoana.R.nextInt(IPersoana.rani_posibile.length);
 
     public Persoana(){
         this.setNume("Persoana");
@@ -70,8 +70,9 @@ public class Persoana implements IPersoana{
     }
 
     //Scriem mesajul de ajutor intr-un label.
-    public void scrieMesaj(){
-        //Aici o sa alegem o rana la intamplare, in functie de variabila problema si adaugam optiuni la butoane.;
+    public void scrieMesaj(JLabel mesaj){
+        //Aici alegem o rana la intamplare, in functie de variabila problema si adaugam optiuni la butoane.;
+        mesaj.setText(IPersoana.rani_posibile[problema][0][0]);
         adaugaOptiuniAjutor();
     }
 

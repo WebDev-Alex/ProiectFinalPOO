@@ -43,6 +43,16 @@ public class ProiectFinalPOO {
                 }
             }
         });
+        verifica.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                int prob = list1.getSelectedIndex();
+                //Avem lista, vedem ce element este selectat, Scriem mesajul - in JLabel-ul problema
+                if(prob != -1){
+                    lista.getListaPersoane().get(prob).scrieMesaj(problema);
+                }
+            }
+        });
     }
 
     public static void main(String[] args) {
