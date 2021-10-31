@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class Admins {
+    private String adminOnline;
     //Clasa de tip Singleton.
     private static Admins instance;
     //Lista de admini.
@@ -39,7 +40,10 @@ public class Admins {
                 fr.setContentPane(new ProiectFinalPOO().rootPanel);
                 fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 fr.pack();
+                fr.setSize(950, 550);
+                fr.setLocationRelativeTo(null);
                 fr.setVisible(true);
+                this.adminOnline = name;
                 break;
             }
             //Daca numele si parola nu se potrivesc cu nici un element din lista de admini, aruncam un warning.

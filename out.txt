@@ -1,6 +1,0 @@
----------------------------------
-Nume: Stan
-Prenume: Constantin
-Numar Matricol: 000000
-Varsta: 21
----------------------------------

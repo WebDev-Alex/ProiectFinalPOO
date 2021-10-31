@@ -33,7 +33,7 @@
           </grid>
         </constraints>
       </vspacer>
-      <component id="3d347" class="javax.swing.JLabel">
+      <component id="3d347" class="javax.swing.JLabel" binding="labelNume">
         <constraints>
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
             <preferred-size width="245" height="16"/>
@@ -43,7 +43,7 @@
           <text value="   Nume:"/>
         </properties>
       </component>
-      <component id="7efb7" class="javax.swing.JLabel">
+      <component id="7efb7" class="javax.swing.JLabel" binding="labelNrMatricol">
         <constraints>
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
             <preferred-size width="245" height="16"/>
@@ -53,7 +53,7 @@
           <text value="   Numar Matricol:"/>
         </properties>
       </component>
-      <component id="f56b9" class="javax.swing.JLabel">
+      <component id="f56b9" class="javax.swing.JLabel" binding="labelVarsta">
         <constraints>
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
             <preferred-size width="245" height="16"/>

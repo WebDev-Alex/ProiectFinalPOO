@@ -120,7 +120,7 @@ public interface IPersoana {
 
                     },
                     {
-                            {"}Persoana a suferit un accident. Aceasta prezinta corpi straini in interiorul plagilor. Cum se va proceda corect?", "0"},
+                            {"Persoana a suferit un accident. Aceasta prezinta corpi straini in interiorul plagilor. Cum se va proceda corect?", "0"},
                             {"a) corpii straini nu se extrag din plagi, intrucat pot aparea complicatii;", "1"},
                             {"b) se va incerca indepartarea acestora prin spalarea plagii cu apa curata;", "0"},
                             {"c) se va incerca extragerea acestora din plagi", "0"}
@@ -196,6 +196,6 @@ public interface IPersoana {
     String getNumarMatricol();
     int getVarsta();
     String toString();
-    void scrieMesaj(JLabel mesaj);
-    void adaugaOptiuniAjutor();
+    void scrieMesaj(JLabel mesaj, JRadioButton r1, JRadioButton r2, JRadioButton r3, JLabel ln, JLabel lv, JLabel lnm);
+    void adaugaOptiuniAjutor(JRadioButton r1, JRadioButton r2, JRadioButton r3, JLabel ln, JLabel lv, JLabel lnm);
 }

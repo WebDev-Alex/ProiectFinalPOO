@@ -70,15 +70,20 @@ public class Persoana implements IPersoana{
     }
 
     //Scriem mesajul de ajutor intr-un label.
-    public void scrieMesaj(JLabel mesaj){
+    public void scrieMesaj(JLabel mesaj, JRadioButton r1, JRadioButton r2, JRadioButton r3, JLabel ln, JLabel lv, JLabel lnm){
         //Aici alegem o rana la intamplare, in functie de variabila problema si adaugam optiuni la butoane.;
         mesaj.setText(IPersoana.rani_posibile[problema][0][0]);
-        adaugaOptiuniAjutor();
+        adaugaOptiuniAjutor(r1, r2, r3, ln, lv, lnm);
     }
 
     //Adaugam butoanele(textele in 3 butoane existente)
-    public void adaugaOptiuniAjutor(){
-
+    public void adaugaOptiuniAjutor(JRadioButton r1, JRadioButton r2, JRadioButton r3, JLabel ln, JLabel lv, JLabel lnm){
+        r1.setText(IPersoana.rani_posibile[problema][1][0]);
+        r2.setText(IPersoana.rani_posibile[problema][2][0]);
+        r3.setText(IPersoana.rani_posibile[problema][3][0]);
+        ln.setText("   Nume: " + this.getNume() + " " + this.getPrenume());
+        lv.setText("   Numar Matricol: " + this.getNumarMatricol());
+        lnm.setText("   Varsta: " + this.getVarsta());
     }
 
     //Pentru mai tarziu, cand stocam datele.

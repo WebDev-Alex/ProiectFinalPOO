@@ -41,7 +41,7 @@ public class ListaPersoane {
     //Constructor Lista de persoane.
     public ListaPersoane(JList j){
         //Adaugam cateva persoane random
-        for (int i = 0; i < 8; i++) {
+        for (int i = 0; i < 12; i++) {
             this.getListaPersoane().add(new Persoana(IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length)],IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length)]));
         }
         //Afisam

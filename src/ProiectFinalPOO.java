@@ -1,7 +1,6 @@
 import Pachet.*;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
@@ -17,6 +16,9 @@ public class ProiectFinalPOO {
     private JRadioButton btnvar1;
     private JRadioButton btnvar2;
     private JRadioButton btnvar3;
+    private JLabel labelNume;
+    private JLabel labelNrMatricol;
+    private JLabel labelVarsta;
     private final ListaPersoane lista = ListaPersoane.getInstance(list1);
     private final File fila = new File("out.txt");
 
@@ -49,7 +51,7 @@ public class ProiectFinalPOO {
                 int prob = list1.getSelectedIndex();
                 //Avem lista, vedem ce element este selectat, Scriem mesajul - in JLabel-ul problema
                 if(prob != -1){
-                    lista.getListaPersoane().get(prob).scrieMesaj(problema);
+                    lista.getListaPersoane().get(prob).scrieMesaj(problema, btnvar1, btnvar2, btnvar3,  labelNume, labelNrMatricol, labelVarsta);
                 }
             }
         });
