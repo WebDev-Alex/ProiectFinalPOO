@@ -92,7 +92,7 @@ public interface IPersoana {
 
                     },
                     {
-                            {"Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansamment. Ce trebuie sa contina acesta?", "0"},
+                            {"Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansament. Ce trebuie sa contina acesta?", "0"},
                             {"a) o compresa de tifon steril;", "1"},
                             {"b) o compresa de orice tip;", "0"},
                             {"c) o compresa de vata sterila", "0"}

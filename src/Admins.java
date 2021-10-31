@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class Admins {
-    private String adminOnline;
+    public static String adminOnline;
     //Clasa de tip Singleton.
     private static Admins instance;
     //Lista de admini.

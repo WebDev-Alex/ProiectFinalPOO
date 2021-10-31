@@ -10,6 +10,10 @@ public class Persoana implements IPersoana{
     private int varsta;
     int problema = IPersoana.R.nextInt(IPersoana.rani_posibile.length);
 
+    public int getProblema(){
+        return problema;
+    }
+
     public Persoana(){
         this.setNume("Persoana");
         this.setPrenume("Necunoscuta");

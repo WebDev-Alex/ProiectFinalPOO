@@ -1,0 +1,80 @@
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Maria
+Varsta: 21
+---------------
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Maria
+Varsta: 21
+---------------
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Matei  Daniel
+Varsta: 21
+---------------
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Radu  Pavel
+Varsta: 21
+---------------
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Gheorghe  Cosmin
+Varsta: 21
+---------------
+Persoana a suferit un stop cardio-respirator. Daca dupa resuscitare aceasta isi recapata pulsul, este necesar sa:
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Dumitru  Raul
+Varsta: 21
+---------------
+Persoana a suferit un stop cardio-respirator. Daca dupa resuscitare aceasta isi recapata pulsul, este necesar sa:
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Gheorghe  Codruta
+Varsta: 21
+---------------
+Persoana a suferit o fractura. Cum se face mobilizarea fracturii fara atele?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Alexandru
+Varsta: 21
+---------------
+Persoana a suferit multiple arsuri pe corp si membre. Cum procedati in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Alexandru
+Varsta: 21
+---------------
+Persoana a suferit multiple arsuri pe corp si membre. Cum procedati in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Radu  Iulia
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansamment. Ce trebuie sa contina acesta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Matei  Pavel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident, in urma caruia a rezultat o fractura de coloana. In acest caz se va folosi:

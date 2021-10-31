@@ -31,12 +31,11 @@ public class ProiectFinalPOO {
                     FileWriter fp;
                     try{
                         fp = new FileWriter(fila,true);
-                        fp.append("---------------------------------");
-                        fp.append("\nNume: "+lista.getListaPersoane().get(p).getNume());
-                        fp.append("\nPrenume: "+lista.getListaPersoane().get(p).getPrenume());
-                        fp.append("\nNumar Matricol: "+lista.getListaPersoane().get(p).getNumarMatricol());
-                        fp.append("\nVarsta: "+lista.getListaPersoane().get(p).getVarsta());
-                        fp.append("\n---------------------------------\n");
+                        fp.append("\n\nUtilizator online: ");
+                        fp.append(Admins.adminOnline);
+                        fp.append(lista.getListaPersoane().get(p).toString());
+                        fp.append("Intrebarea este: ");
+                        fp.append(IPersoana.rani_posibile[lista.getListaPersoane().get(p).getProblema()][0][0]);
                         fp.close();
                     }
                     catch
