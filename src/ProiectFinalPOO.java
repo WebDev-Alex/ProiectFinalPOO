@@ -19,8 +19,10 @@ public class ProiectFinalPOO {
     private JLabel labelNume;
     private JLabel labelNrMatricol;
     private JLabel labelVarsta;
+    private JRadioButton btninv;
     private final ListaPersoane lista = ListaPersoane.getInstance(list1);
     private final File fila = new File("out.txt");
+
 
     public ProiectFinalPOO() {
         ajuta.addActionListener(new ActionListener() {
@@ -41,6 +43,16 @@ public class ProiectFinalPOO {
                     catch
                     (Exception t){System.out.println("Eroare");}
 
+                    lista.getListaPersoane().remove(p);
+                    lista.afiseazaPersoane(list1);
+                    labelNume.setText("   Nume: ");
+                    labelNrMatricol.setText("   Numar matricol: ");
+                    labelVarsta.setText("   Varsta: ");
+                    problema.setText("");
+                    btnvar1.setText("");
+                    btnvar2.setText("");
+                    btnvar3.setText("");
+                    btninv.setSelected(true);
                 }
             }
         });
@@ -57,11 +69,13 @@ public class ProiectFinalPOO {
     }
 
     public static void main(String[] args) {
+
         //Desenam tot.
         JFrame frame = new JFrame();
         frame.setContentPane(new ProiectFinalPOO().rootPanel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
+
     }
 }

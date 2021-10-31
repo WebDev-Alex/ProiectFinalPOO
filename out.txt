@@ -1,80 +1,481 @@
-Utilizator online: Admin
----------------
-Detalii Persoana:
-Nume: Ionescu  Maria
-Varsta: 21
----------------
-Utilizator online: Admin
----------------
-Detalii Persoana:
-Nume: Ionescu  Maria
-Varsta: 21
----------------
+
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Matei  Daniel
+Nume: Hulpe  Ionut
 Varsta: 21
 ---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Radu  Pavel
+Nume:   
 Varsta: 21
 ---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Gheorghe  Cosmin
+Nume: Radu  Alexandra
 Varsta: 21
 ---------------
-Persoana a suferit un stop cardio-respirator. Daca dupa resuscitare aceasta isi recapata pulsul, este necesar sa:
-Utilizator online: Admin
----------------
-Detalii Persoana:
-Nume: Dumitru  Raul
-Varsta: 21
----------------
-Persoana a suferit un stop cardio-respirator. Daca dupa resuscitare aceasta isi recapata pulsul, este necesar sa:
-Utilizator online: Admin
----------------
-Detalii Persoana:
-Nume: Gheorghe  Codruta
-Varsta: 21
----------------
-Persoana a suferit o fractura. Cum se face mobilizarea fracturii fara atele?
+Intrebarea este: Persoana are hemoragie externa. Cum trebuie asezata aceasta?
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Constantin  Alexandru
+Nume:   
 Varsta: 21
 ---------------
-Persoana a suferit multiple arsuri pe corp si membre. Cum procedati in acest caz?
+Intrebarea este: Persoana are hemoragie externa. Cum trebuie asezata aceasta?
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Constantin  Alexandru
+Nume: Popescu  Daniel
 Varsta: 21
 ---------------
-Persoana a suferit multiple arsuri pe corp si membre. Cum procedati in acest caz?
+Intrebarea este: Persoana a suferit un accident. Aceasta prezinta corpi straini in interiorul plagilor. Cum se va proceda corect?
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Radu  Iulia
+Nume:   
 Varsta: 21
 ---------------
-Intrebarea este: Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansamment. Ce trebuie sa contina acesta?
+Intrebarea este: Persoana are hemoragie externa. Cum trebuie asezata aceasta?
 
 Utilizator online: Admin
 ---------------
 Detalii Persoana:
-Nume: Matei  Pavel
+Nume: Ursu  Codruta
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura deschisa la degete. Putem recunoaste acest lucru cand:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stan  Gabriela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popescu  Gabriela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stoica  Iulia
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura la brat. Imobilizarea bratului se face:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Paul
+Varsta: 21
+---------------
+Intrebarea este: Persoana a pierdut mult sange in urma unui accident. Aceasta trebuie asezata:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stoica  Iulia
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura deschisa la degete. Putem recunoaste acest lucru cand:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Hulpe  Raul
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Mihaela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Serban  Ioana
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o hemoragie arteriala in urma unui accident. Se aplica garoul. Biletul care se prinde pe garou trebuie sa contina:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stan  Alexandra
+Varsta: 21
+---------------
+Intrebarea este: Persoana are hemoragie externa. Cum trebuie asezata aceasta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Hulpe  Pavel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansament. Ce trebuie sa contina acesta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popa  Gabriela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o hemoragie arteriala in urma unui accident. Se aplica garoul. Biletul care se prinde pe garou trebuie sa contina:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Daniel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident. Ce poate determina stopul respirator in acest caz:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Radu  Gabriel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o entorsa. Cum procedati?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Dumitru  Alexandru
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o entorsa. Cum procedati?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Serban  Constantin
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident. Ce pozitie de asteptare este indicata pana la transportul victimei la spital?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Matei  Marian
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident. Ce pozitie de asteptare este indicata pana la transportul victimei la spital?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Hulpe  Constantin
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit fracturi la membrele superioare. Pentru imobilizarea fracturilor:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stoica  Codruta
+Varsta: 21
+---------------
+Intrebarea este: Persoana are caile respiratorii blocate in urma unui accident. Cum se pot debloca acestea?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popa  Constantin
 Varsta: 21
 ---------------
 Intrebarea este: Persoana a suferit un accident, in urma caruia a rezultat o fractura de coloana. In acest caz se va folosi:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stan  Ionut
+Varsta: 21
+---------------
+Intrebarea este: Persoana are caile respiratorii blocate in urma unui accident. Cum se pot debloca acestea?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Serban  Mihaela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Serban  Marian
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansament. Ce trebuie sa contina acesta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Paul
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popa  Gabriel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident in urma caruia a rezultat o plaga. Se aplica un pansament. Ce trebuie sa contina acesta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stoica  Gabriela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident. Ce pozitie de asteptare este indicata pana la transportul victimei la spital?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Serban  Dani
+Varsta: 21
+---------------
+Intrebarea este: Persoana are o hemoragie la brat. Cum se va opri aceasta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Radu  Mihaela
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit multiple arsuri pe corp si membre. Cum procedati in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Pavel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit multiple arsuri pe corp si membre. Cum procedati in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popescu  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident, in urma caruia a rezultat o fractura de coloana. In acest caz se va folosi:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stoica  Andrei
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Gheorghe  Raul
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Codruta
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o entorsa. Cum procedati?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Munteanu  Ioana
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura la brat. Imobilizarea bratului se face:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Alexandru
+Varsta: 21
+---------------
+Intrebarea este: Persoana are caile respiratorii blocate in urma unui accident. Cum se pot debloca acestea?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Hulpe  Paul
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Cum se face mobilizarea fracturii fara atele?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Matei  Gabriel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Cum se face mobilizarea fracturii fara atele?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ionescu  Constantin
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Pentru evitarea complicatiilor, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Rusu  Gabriel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popa  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Munteanu  Gabriel
+Varsta: 21
+---------------
+Intrebarea este: Persoana are o hemoragie la brat. Cum se va opri aceasta?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Popa  Pavel
+Varsta: 21
+---------------
+Intrebarea este: Persoana are caile respiratorii blocate in urma unui accident. Cum se pot debloca acestea?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stan  Iulia
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura deschisa la degete. Putem recunoaste acest lucru cand:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Stoica  Paul
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o entorsa. Cum procedati?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Munteanu  Ioana
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit fracturi la membrele superioare. Pentru imobilizarea fracturilor:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Hulpe  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un stop cardio-respirator. Daca dupa resuscitare aceasta isi recapata pulsul, este necesar sa:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Hulpe  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a pierdut mult sange in urma unui accident. Aceasta trebuie asezata:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Iulia
+Varsta: 21
+---------------
+Intrebarea este: Persoana are caile respiratorii blocate in urma unui accident. Cum se pot debloca acestea?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Ioana
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o plaga, insotita de hemoragii arteriale. Unde trebuie aplicat garoul de cauciuc in acest caz?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Constantin  Ionut
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit fracturi la membrele superioare. Pentru imobilizarea fracturilor:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Serban  Stefan
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident. Aceasta prezinta corpi straini in interiorul plagilor. Cum se va proceda corect?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Gheorghe  Elena
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit o fractura. Cum se face mobilizarea fracturii fara atele?
