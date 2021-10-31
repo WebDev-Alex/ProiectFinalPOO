@@ -20,6 +20,17 @@ public class ProiectFinalPOO {
     private JLabel labelNrMatricol;
     private JLabel labelVarsta;
     private JRadioButton btninv;
+    private JPanel panel1;
+    private JTextField txtnume;
+    private JTextField txtnrmatricol;
+    private JTextField txtvarsta;
+    private JButton btncancel;
+    private JButton btnadaugare;
+    private JLabel lblprenume;
+    private JTextField txtprenume;
+    private JLabel introdnp;
+    private JLabel introdnrmat;
+    private JLabel introdv;
     private final ListaPersoane lista = ListaPersoane.getInstance(list1);
     private final File fila = new File("out.txt");
 
@@ -64,6 +75,55 @@ public class ProiectFinalPOO {
                 if(prob != -1){
                     lista.getListaPersoane().get(prob).scrieMesaj(problema, btnvar1, btnvar2, btnvar3,  labelNume, labelNrMatricol, labelVarsta);
                 }
+            }
+        });
+        btnAdauga.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+            introdnp.setVisible(true);
+            introdnrmat.setVisible(true);
+            introdv.setVisible(true);
+            txtnume.setVisible(true);
+            txtnrmatricol.setVisible(true);
+            txtvarsta.setVisible(true);
+            btncancel.setVisible(true);
+            btnadaugare.setVisible(true);
+            lblprenume.setVisible(true);
+            txtprenume.setVisible(true);
+            panel1.setVisible(true);
+
+            }
+        });
+        btncancel.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                introdnp.setVisible(false);
+                introdnrmat.setVisible(false);
+                introdv.setVisible(false);
+                txtnume.setVisible(false);
+                txtnrmatricol.setVisible(false);
+                txtvarsta.setVisible(false);
+                btncancel.setVisible(false);
+                btnadaugare.setVisible(false);
+                lblprenume.setVisible(false);
+                txtprenume.setVisible(false);
+                panel1.setVisible(false);
+            }
+        });
+        btnadaugare.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                introdnp.setVisible(false);
+                introdnrmat.setVisible(false);
+                introdv.setVisible(false);
+                txtnume.setVisible(false);
+                txtnrmatricol.setVisible(false);
+                txtvarsta.setVisible(false);
+                btncancel.setVisible(false);
+                btnadaugare.setVisible(false);
+                lblprenume.setVisible(false);
+                txtprenume.setVisible(false);
+                panel1.setVisible(false);
             }
         });
     }

@@ -479,3 +479,19 @@ Nume: Gheorghe  Elena
 Varsta: 21
 ---------------
 Intrebarea este: Persoana a suferit o fractura. Cum se face mobilizarea fracturii fara atele?
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Ursu  Daniel
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit un accident. Ce poate determina stopul respirator in acest caz:
+
+Utilizator online: Admin
+---------------
+Detalii Persoana:
+Nume: Munteanu  Dani
+Varsta: 21
+---------------
+Intrebarea este: Persoana a suferit fracturi la membrele superioare. Pentru imobilizarea fracturilor:
