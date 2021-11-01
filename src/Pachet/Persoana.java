@@ -69,10 +69,6 @@ public class Persoana implements IPersoana{
         this.varsta = v;
     }
 
-    public void setUser(String name){
-        user_name = name;
-    }
-
     //Scriem mesajul de ajutor intr-un label.
     public void scrieMesaj(JLabel mesaj, JRadioButton r1, JRadioButton r2, JRadioButton r3, JLabel ln, JLabel lv, JLabel lnm){
         //Aici alegem o rana la intamplare, in functie de variabila problema si adaugam optiuni la butoane.;
